@@ -12,7 +12,7 @@ function preload() {
   let progressBar7 = document.querySelector(".progress-bar");
   let progressText7 = document.querySelector(".progress-text");
   let imgLoaded7 = 0;
-  let imgTotal7 = 300;
+  let imgTotal7 = 400;
   let current7 = 0;
   let progressTimer7;
   let topValue7;
